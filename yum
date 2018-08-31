@@ -1,0 +1,5 @@
+[yum]
+name=yum.repo
+baseurl=https://github.com/caffix/amass
+gpgcheck=0
+enabled=1
